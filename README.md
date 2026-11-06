@@ -1,7 +1,11 @@
+
+
 # AEP 2º Semestre
 ### Participantes:
 ### Nome: Lucas Kenzo Carvalho Yamamoto || RA: 26001551-2
 ### Nome: || RA:
+
+[![Assistir ao vídeo] (https://drive.google.com/file/d/1YJUm14vWni2BPVnR06qbfascbBsCvpL3/view?usp=drive_link)] (https://drive.google.com/file/d/1YJUm14vWni2BPVnR06qbfascbBsCvpL3/view?usp=drive_link)
 
 
 ## **Foi feito um banco de dados para o PSE em C / C++ utilizando a plataforma dev_c++.**
