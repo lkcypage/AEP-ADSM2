@@ -5,8 +5,7 @@
 ### Nome: Lucas Kenzo Carvalho Yamamoto || RA: 26001551-2
 ### Nome: || RA:
 
-[![Assistir ao vídeo] (https://drive.google.com/file/d/1YJUm14vWni2BPVnR06qbfascbBsCvpL3/view?usp=drive_link)] (https://drive.google.com/file/d/1YJUm14vWni2BPVnR06qbfascbBsCvpL3/view?usp=drive_link)
-
+https://github.com/user-attachments/assets/ff90073e-a824-4e6e-9112-1922d6ccb6ef
 
 ## **Foi feito um banco de dados para o PSE em C / C++ utilizando a plataforma dev_c++.**
 ### Funções:
