@@ -3,7 +3,8 @@
 # AEP 2º Semestre
 ### Participantes:
 ### Nome: Lucas Kenzo Carvalho Yamamoto || RA: 26001551-2
-### Nome: Miguel Antonio Pinho de Castro|| RA: 26013387-2
+### Nome: Miguel Antonio Pinho de Castro || RA: 26013387-2
+### Nome: Guilherme Amaral Ayalla || RA: 2601514-2
 
 https://github.com/user-attachments/assets/ff90073e-a824-4e6e-9112-1922d6ccb6ef
 
