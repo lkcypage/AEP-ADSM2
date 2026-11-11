@@ -6,7 +6,7 @@
 ### Nome: Miguel Antonio Pinho de Castro || RA: 26013387-2
 ### Nome: Guilherme Amaral Ayalla || RA: 2601514-2
 
-https://github.com/user-attachments/assets/ff90073e-a824-4e6e-9112-1922d6ccb6ef
+https://github.com/user-attachments/assets/c1f543cb-59fa-4c60-95be-fd79fb8fea28
 
 ## **Foi feito um banco de dados para o PSE em C / C++ utilizando a plataforma dev_c++.**
 ## Manual de uso:
