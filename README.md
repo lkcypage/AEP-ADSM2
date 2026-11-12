@@ -4,7 +4,7 @@
 ### Participantes:
 ### Nome: Lucas Kenzo Carvalho Yamamoto || RA: 26001551-2
 ### Nome: Miguel Antonio Pinho de Castro || RA: 26013387-2
-### Nome: Guilherme Amaral Ayalla || RA: 2601514-2
+### Nome: Guilherme Amaral Ayalla || RA: 26015149-2
 
 https://github.com/user-attachments/assets/c1f543cb-59fa-4c60-95be-fd79fb8fea28
 
